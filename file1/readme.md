@@ -1,4 +1,4 @@
-The article essentially compares two fundamental architectural approaches for building systems with multiple AI agents:
+The article essentially compares two fundamental architectural approaches for building systems with multiple AI agents:/n
 MCP (Multi-Agent Control Plane / Master Control Program)
 A2A (Agent-to-Agent Communication)
 Here's a breakdown of each and their comparison:
